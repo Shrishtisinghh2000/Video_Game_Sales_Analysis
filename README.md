@@ -1,3 +1,7 @@
+![image](https://github.com/Shrishtisinghh2000/Video_Game_Dashboard/assets/119104668/417e0909-db62-416e-a66a-e104c4d840c7)
+
+
+
 # Video_Game_Dashboard
 [Dataset Used](https://www.kaggle.com/code/rhysrw/video-game-sales-analysis/notebook)
 
