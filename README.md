@@ -1,5 +1,5 @@
 # Video_Game_Dashboard
-(Dataset Used)[https://www.kaggle.com/code/rhysrw/video-game-sales-analysis/notebook]
+[Dataset Used](https://www.kaggle.com/code/rhysrw/video-game-sales-analysis/notebook)
 
 Description
 This repository contains a Power BI dashboard that provides comprehensive insights into video game data using the VGChartz dataset. The dashboard includes various visualizations and analyses to help users understand trends and patterns in the video gaming industry.
