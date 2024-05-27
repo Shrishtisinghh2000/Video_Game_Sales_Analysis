@@ -3,7 +3,7 @@
 
 
 
-# Video_Game_Dashboard
+Tools Used - MS Excel, Power BI
 [Dataset Used](https://www.kaggle.com/code/rhysrw/video-game-sales-analysis/notebook)
 
 Description
