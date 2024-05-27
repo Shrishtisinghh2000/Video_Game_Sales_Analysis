@@ -1,4 +1,5 @@
-![image](https://github.com/Shrishtisinghh2000/Video_Game_Dashboard/assets/119104668/417e0909-db62-416e-a66a-e104c4d840c7)
+![image](https://github.com/Shrishtisinghh2000/Video_Game_Sales_Analysis/assets/119104668/68eb8de3-5758-4c15-8dd9-f96681a34920)
+
 
 
 
