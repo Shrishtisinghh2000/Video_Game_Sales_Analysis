@@ -3,11 +3,24 @@
 
 
 
-Tools Used - MS Excel, Power BI
+Tools Used - MS Excel, MySQL, Power BI
+
+
 [Dataset Used](https://www.kaggle.com/code/rhysrw/video-game-sales-analysis/notebook)
 
+
+
+[SQL CODE](https://github.com/Shrishtisinghh2000/Video_Game_Sales_Analysis/blob/main/VideoGameSalesAnalysis.sql)
+
+
+[Dashboard](https://github.com/Shrishtisinghh2000/Video_Game_Sales_Analysis/blob/main/Video_Games_Dashboard.pbix)
+
+
+
 Description
-This repository contains a Power BI dashboard that provides comprehensive insights into video game data using the VGChartz dataset. The dashboard includes various visualizations and analyses to help users understand trends and patterns in the video gaming industry.
+This repository contains an MySQL Code file for video game sales analysiss & Power BI dashboard that provides comprehensive insights into video game data using the VideoGameSales dataset. The dashboard includes various visualizations and analyses to help users understand trends and patterns in the video gaming industry.
+
+
 
 Features
 Sales Analysis: Visualizations of video game sales across different platforms, regions, and genres.
@@ -15,8 +28,7 @@ Trend Analysis: Insights into sales trends over time.
 Publisher and Developer Insights: Analysis of top publishers and developers in the industry.
 Genre Analysis: Breakdown of sales and popularity by game genres.
 User Interactivity: Interactive filters and slicers to customize the data view.
-Dataset
-The dataset used in this dashboard is sourced from VGChartz and includes detailed information about video game sales. The dataset (vgchartz-2024.csv) contains the following columns:
+
 
 Rank: Ranking of the game.
 Name: Name of the game.
