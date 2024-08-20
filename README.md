@@ -3,7 +3,7 @@
 
 
 
-Tools Used - MS Excel, MySQL, Power BI
+Tools Used - Python, MS Excel, MySQL, Power BI
 
 
 [Dataset Used](https://www.kaggle.com/code/rhysrw/video-game-sales-analysis/notebook)
@@ -20,7 +20,7 @@ Tools Used - MS Excel, MySQL, Power BI
 
 
 
-Description7
+Description
 
 
 This repository contains a python code file, MySQL Code file for video game sales analysis & Power BI dashboard that provides comprehensive insights into video game data using the VideoGameSales dataset. The dashboard includes various visualizations and analyses to help users understand trends and patterns in the video gaming industry.
